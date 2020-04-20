@@ -1,0 +1,6 @@
+configuration{
+        modi: "drun";
+        theme: "nord";
+        font: "roboto 12";
+        show-icons: false;
+}
