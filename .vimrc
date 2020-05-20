@@ -1,14 +1,28 @@
 " Don't try to be vi compatible
 set nocompatible
 
-" " Helps force plugins to load correctly when it is turned back on below
-filetype off
+" Helps force plugins to load correctly when it is turned back on below
+filetype on
+
+" Enable folding
+set foldmethod=indent
+set foldlevel=99
+
+au BufNewFile,BufRead *.py
+  \ set tabstop=4 |
+  \ set softtabstop=4 |
+  \ set shiftwidth=4 |
+  \ set textwidth=79 |
+  \ set expandtab |
+  \ set autoindent |
+  \ set fileformat=unix
 
 " Turn on syntax highlighting
 syntax on
 
-" " For plugins to load correctly
+" For plugins to load correctly
 filetype plugin indent on
+packloadall
 
 " Security
 set modelines=0
