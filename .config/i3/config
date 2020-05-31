@@ -120,6 +120,7 @@ bar {
     }
         status_command i3status
 }
+for_window [class=".*"] border pixel 4
 
 # colour of border, background, text, indicator, and child_border
 client.focused              #bf616a #2f343f #d8dee8 #bf616a #d8dee8
