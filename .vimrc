@@ -96,7 +96,4 @@ map <leader>q gqip
 set listchars=tab:▸\ ,eol:¬
 
 " Color scheme (terminal)
-set t_Co=256
-set background=dark
-let g:solarized_termcolors=256
-let g:solarized_termtrans=1
+colorscheme nord
