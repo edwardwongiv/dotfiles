@@ -5,11 +5,32 @@ https://www.wired.com/feed/category/science/latest/rss
 https://www.wired.com/feed/category/business/latest/rss
 https://hnrss.org/frontpage
 https://hnrss.org/newest
-https://www.youtube.com/channel/UCNbqa_9xihC8yaV2o6dlsUg
+https://defcon.org/defconrss.xml
+https://stallman.org/rss/rss.xml
+https://suckless.org/atom.xml
 
 # Linux stuff
 https://www.archlinux.org/feeds/packages/x86_64/stable-repos/
 https://www.archlinux.org/feeds/news/
 https://itsfoss.com/feed/
-https://www.cyberciti.biz/feed/
 https://www.linuxfoundation.org/feed/
+
+# Youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA # Luke
+https://www.youtube.com/feeds/videos.xml?channel_id=UCNbqa_9xihC8yaV2o6dlsUg # Sec now
+https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA # Computerphile
+https://www.youtube.com/feeds/videos.xml?channel_id=UCwY9B5_8QDGP8niZhBtTh8w # TwiT
+https://www.youtube.com/feeds/videos.xml?channel_id=UC3JMzLbq7fgFLampM2dNLMA # Nill
+https://www.youtube.com/feeds/videos.xml?channel_id=UCK5eBtuoj_HkdXKHNmBLAXg # AfreecaTV
+https://www.youtube.com/feeds/videos.xml?channel_id=UC6Om9kAkl32dWlDSNlDS9Iw # DefCON
+https://www.youtube.com/feeds/videos.xml?channel_id=UCKa48P9YzCjCoK6Tx0y4pLA # JiuJitsu
+https://www.youtube.com/feeds/videos.xml?channel_id=UCNbqa_9xihC8yaV2o6dlsUg # SecNow
+https://www.youtube.com/feeds/videos.xml?channel_id=UCgTNupxATBfWmfehv21ym-g # NullByte
+https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA # LearnLinuxTV
+https://www.youtube.com/feeds/videos.xml?channel_id=UCHkYOD-3fZbuGhwsADBd9ZQ # LawrenceTech
+https://www.youtube.com/feeds/videos.xml?channel_id=UC0ZTPkdxlAKf-V33tqXwi3Q # HackerSpoloit
+https://www.youtube.com/feeds/videos.xml?channel_id=UCAGK9knHbcdyxqAomHP0cFQ # Kutter
+https://www.youtube.com/feeds/videos.xml?channel_id=UC3s0BtrBJpwNDaflRSoiieQ # Hak5
+https://www.youtube.com/feeds/videos.xml?channel_id=UCeeFfhMcJa1kjtfZAGskOCA # TechLinked
+https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw # LinuxTechTips
+https://www.youtube.com/feeds/videos.xml?channel_id=UCdBK94H6oZT2Q7l0-b0xmMg # ShortCircuit
