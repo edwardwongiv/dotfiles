@@ -9,7 +9,7 @@ general {
 }
 
 order += "load"
-order += "cpu_temperature 0"
+
 order += "disk /"
 order += "disk /home"
 order += "ethernet enp5s0"
@@ -22,10 +22,6 @@ load {
         format = "<span background='#285577'>  %5min Load </span>"
 }
 
-cpu_temperature 0 {
-        format = "<span background='#285577'>  %degrees °C </span>"
-        path = "/sys/class/thermal/thermal_zone0/temp"
-}
 
 disk "/" {
         format = "<span background='#285577'>  %free Free </span>"
@@ -69,4 +65,3 @@ tztime local {
 		format = "<span background='#285577'> %time </span>"
 		format_time = " %a %-d %b %I:%M"
 }
-

@@ -97,3 +97,6 @@ set listchars=tab:▸\ ,eol:¬
 
 " Color scheme (terminal)
 colorscheme nord
+
+" netrw
+let g:netrw_banner = 0
