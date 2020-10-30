@@ -8,8 +8,6 @@ general {
 		color_bad = '#ba5e57'
 }
 
-order += "load"
-
 order += "disk /"
 order += "disk /home"
 order += "ethernet enp5s0"
@@ -17,11 +15,6 @@ order += "wireless wlan0"
 order += "volume master"
 order += "battery 1"
 order += "tztime local"
-
-load {
-        format = "<span background='#285577'>  %5min Load </span>"
-}
-
 
 disk "/" {
         format = "<span background='#285577'>  %free Free </span>"
